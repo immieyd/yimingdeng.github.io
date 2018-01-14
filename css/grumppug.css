@@ -1,0 +1,40 @@
+body{
+	background-color:white;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.topheader{
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.header-text{
+	color: black;
+}
+
+.profilepicture {
+	border-radius: 90px
+}
+
+header{
+	background-image: url(../img/headerpicture.jpg);
+	background-size:cover;
+	height:100vh;
+	background-attachment: fixed;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding-top: 300px;
+	padding-right:150px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-color: #9C9CA0
+    font-size: 100;
+}
+
+
